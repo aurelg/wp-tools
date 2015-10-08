@@ -3,3 +3,5 @@ wp_test
 .project
 .pydevproject
 .settings
+tests
+wp_install.sh
